@@ -433,10 +433,6 @@ const cancelLogout = () => {
     font-size: 14px;
   }
 
-  .modal-actions {
-    flex-direction: column;
-  }
-
   .btn-cancel,
   .btn-confirm {
     max-width: 100%;
